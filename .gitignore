@@ -1,0 +1,13 @@
+# Virtual environment
+env/
+
+# Generated JSON output files from API scripts
+*.json
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
